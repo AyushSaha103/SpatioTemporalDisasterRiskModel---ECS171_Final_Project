@@ -1,0 +1,25 @@
+.ipynb_checkpoints
+venv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+
+.DS_Store
+
+*.Identifier
+
+*.DS_Store
+
+*.pkl
+*.joblib
+*.pth

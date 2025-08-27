@@ -1,0 +1,27 @@
+---
+:id: 318046794
+:submitters:
+- :name: Manav Gurnani
+  :email: mgurnani@ucdavis.edu
+- :name: Meigan Lu
+  :email: meilu@ucdavis.edu
+- :name: Veronica Hangsan
+  :email: vhangsan@ucdavis.edu
+- :name: Eileen Huynh
+  :email: ephuynh@ucdavis.edu
+- :name: Ayush Saha
+  :email: aysaha@ucdavis.edu
+- :name: Gavin Lang
+  :email: gclang@ucdavis.edu
+- :name: Cassie Hopkin
+  :email: cmhopkin@ucdavis.edu
+- :name: Jovan Radovic
+  :email: jradovic@ucdavis.edu
+- :name: Foram Shah
+  :email: fshah@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-03-18 05:26:22.075790000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-03-17 22:26:22.075790000 Z
+:status: processed
